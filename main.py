@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Copy entry.txt into the output directory."""
+"""Entry for make.fun’s “Worst AI Advice: The 48-Hour Tight Line Open” bounty.
+
+Copy entry.txt into the output directory the harness sets.
+"""
 
 import os
 import shutil
